@@ -1,1 +1,1 @@
-This is MArvellous's first Git project!
+This is Marvellous's first Git project!
